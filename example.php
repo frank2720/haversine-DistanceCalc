@@ -1,5 +1,4 @@
 <?php
-require __DIR__ ."/haversine.php";
 $latitude1 = 40.770623;
 $latitude2 = 40.758224;
 $longitude1 = -73.964367;
